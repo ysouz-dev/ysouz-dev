@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👨‍💻 Yago Souza
 
-<!--
-**ysouz-dev/ysouz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor em formação | Focado em backend com Python e futuro em Java/Spring**
 
-Here are some ideas to get you started:
+Meu objetivo é construir uma base sólida em programação, passando por lógica, POO e boas práticas antes de migrar para o ecossistema Java e trabalhar com desenvolvimento backend profissionalmente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+===
+
+> 📈 Evolução dos Estudos
+- 🎯 **Início dos estudos:** ~2 meses atrás  
+- 🧠 **Base concluída:** lógica, estruturas de repetição, funções, listas, tuplas, dicionários  
+- 🐍 **Atualmente estudando:** Python + POO  
+- ☕ **Próximo passo:** Java + Spring Boot (backend)  
+- 💼 **Meta:** me tornar desenvolvedor backend
+
+===
+
+> 🛠️ Tecnologias e Ferramentas que uso
+- **Python**
+- **Git & GitHub**
+- **VS Code**
+- **Terminal (CMD/PowerShell)**
+
+===
+
+> 📚 Foco Atual
+Atualmente estou aprofundando:
+- Programação Orientada a Objetos (POO)
+- Organização de projetos
+- Modularização
+- Tratamento de erros
+- Boas práticas de código
+
+===
+
+> 🎯 Objetivos em Desenvolvimento
+- Migrar para Java depois de consolidar POO  
+- Começar com Spring Boot  
+- Criar APIs reais  
+- Contribuir em projetos open-source  
+- Conseguir minha primeira oportunidade como dev backend  
+
+===
+
+> 📫 Contato
+**GitHub:** [https://github.com/ysouz-dev](https://github.com/ysouz-dev)
+
+Se quiser trocar ideia sobre estudos ou projetos, só chamar!
+
+
+> _“Evolução é constância. E eu tô aqui todos os dias tentando ser 1% melhor que ontem.”_
