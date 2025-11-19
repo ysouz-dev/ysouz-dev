@@ -7,7 +7,7 @@ Meu objetivo é construir uma base sólida em programação, passando por lógic
 ===
 
 > 📈 Evolução dos Estudos
-- 🎯 **Início dos estudos:** ~2 meses atrás  
+- 🎯 **Início dos estudos:** 2 meses atrás  
 - 🧠 **Base concluída:** lógica, estruturas de repetição, funções, listas, tuplas, dicionários  
 - 🐍 **Atualmente estudando:** Python + POO  
 - ☕ **Próximo passo:** Java + Spring Boot (backend)  
