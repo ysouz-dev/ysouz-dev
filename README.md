@@ -2,16 +2,16 @@
 
 **Desenvolvedor em formação | Focado em backend com Python e futuro em Java/Spring**
 
-Meu objetivo é construir uma base sólida em programação, passando por lógica, POO e boas práticas antes de migrar para o ecossistema Java e trabalhar com desenvolvimento backend profissionalmente.
+Meu objetivo é construir uma base sólida em programação, consolidando lógica, POO e boas práticas no ecossistema de Java, com foco em desenvolvimento backend profissional.
 
 ===
 
 > 📈 Evolução dos Estudos
-- 🎯 **Início dos estudos:** 2 meses atrás  
-- 🧠 **Base concluída:** lógica, estruturas de repetição, funções, listas, tuplas, dicionários  
-- 🐍 **Atualmente estudando:** Python + POO  
-- ☕ **Próximo passo:** Java + Spring Boot (backend)  
-- 💼 **Meta:** me tornar desenvolvedor backend
+-  **Início dos estudos:** 3 meses atrás  
+-  **Base concluída:** lógica, estruturas de repetição, funções, listas, tuplas, dicionários, POO Intermediário  
+-  **Atualmente estudando:** Java básico  
+-  **Próximo passo:** Java POO + Spring Boot (backend)  
+-  **Meta:** me tornar desenvolvedor backend
 
 ===
 
@@ -28,17 +28,12 @@ Atualmente estou aprofundando:
 - Programação Orientada a Objetos (POO)
 - Organização de projetos
 - Modularização
-- Tratamento de erros
 - Boas práticas de código
 
 ===
 
 > 🎯 Objetivos em Desenvolvimento
-- Migrar para Java depois de consolidar POO  
-- Começar com Spring Boot  
-- Criar APIs reais  
-- Contribuir em projetos open-source  
-- Conseguir minha primeira oportunidade como dev backend  
+- Aprender sintax do java e consolidar POO     
 
 ===
 
