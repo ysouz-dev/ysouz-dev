@@ -1,6 +1,6 @@
 # 👨‍💻 Yago Souza
 
-**Desenvolvedor em formação | Focado em backend com Python e futuro em Java/Spring**
+**Desenvolvedor Backend | Experiência em Python e em transição para Java**
 
 Meu objetivo é construir uma base sólida em programação, consolidando lógica, POO e boas práticas no ecossistema de Java, com foco em desenvolvimento backend profissional.
 
@@ -10,7 +10,7 @@ Meu objetivo é construir uma base sólida em programação, consolidando lógic
 -  **Início dos estudos:** 3 meses atrás  
 -  **Base concluída:** lógica, estruturas de repetição, funções, listas, tuplas, dicionários, POO Intermediário  
 -  **Atualmente estudando:** Java básico  
--  **Próximo passo:** Java POO + Spring Boot (backend)  
+-  **Próximo passo:** Java POO  
 -  **Meta:** me tornar desenvolvedor backend
 
 ===
