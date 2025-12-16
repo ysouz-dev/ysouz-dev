@@ -33,7 +33,7 @@ Atualmente estou aprofundando:
 ===
 
 > 🎯 Objetivos em Desenvolvimento
-- Aprender sintax do java e consolidar POO     
+- Aprender sintaxe do java e consolidar POO     
 
 ===
 
