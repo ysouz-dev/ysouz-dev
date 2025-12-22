@@ -16,6 +16,7 @@ Meu objetivo é construir uma base sólida em programação, consolidando lógic
 ===
 
 > 🛠️ Tecnologias e Ferramentas que uso
+> **Java**
 - **Python**
 - **Git & GitHub**
 - **VS Code**
@@ -33,7 +34,7 @@ Atualmente estou aprofundando:
 ===
 
 > 🎯 Objetivos em Desenvolvimento
-- Aprender sintaxe do java e consolidar POO     
+- Aprender sintaxe de java e consolidar POO     
 
 ===
 
