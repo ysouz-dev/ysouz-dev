@@ -16,7 +16,7 @@ Meu objetivo é construir uma base sólida em programação, consolidando lógic
 ===
 
 > 🛠️ Tecnologias e Ferramentas que uso
-> **Java**
+- **Java**
 - **Python**
 - **Git & GitHub**
 - **VS Code**
