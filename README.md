@@ -8,7 +8,6 @@ Meu objetivo é construir uma base sólida em programação, consolidando lógic
 
 > 📈 Evolução dos Estudos
 -  **Início dos estudos:** 3 meses atrás
--  **Base concluída:** lógica, estruturas de repetição, funções, listas, tuplas, dicionários, POO Intermediário
 -  **Atualmente estudando:** Java básico
 -  **Próximo passo:** Java POO
 -  **Meta:** me tornar desenvolvedor backend
