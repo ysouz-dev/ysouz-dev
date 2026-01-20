@@ -7,7 +7,7 @@ Meu objetivo é construir uma base sólida em programação, consolidando lógic
 ===
 
 > 📈 Evolução dos Estudos
--  **Início dos estudos:** 3 meses atrás
+-  **Início dos estudos:** 4 meses atrás
 -  **Atualmente estudando:** Java básico
 -  **Próximo passo:** Java POO
 -  **Meta:** me tornar desenvolvedor backend
