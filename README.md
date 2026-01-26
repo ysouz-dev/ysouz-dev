@@ -1,6 +1,6 @@
 # 👨‍💻 Yago Souza
 
-**Estudante de Backend | Experiência em Python e em transição para Java**
+**Estudante de Backend | Java (fundamentos concluídos) | Base em Python**
 
 Meu objetivo é construir uma base sólida em programação, consolidando lógica, POO e boas práticas no ecossistema de Java, com foco em desenvolvimento backend profissional.
 
@@ -8,8 +8,8 @@ Meu objetivo é construir uma base sólida em programação, consolidando lógic
 
 > 📈 Evolução dos Estudos
 -  **Início dos estudos:** 4 meses atrás
--  **Atualmente estudando:** Java básico
--  **Próximo passo:** Java POO
+-  **Java:** Fundamentos concluídos 
+-  **Próximo passo:** Java POO e projetos backend
 -  **Meta:** me tornar desenvolvedor backend
 
 ===
@@ -32,8 +32,10 @@ Atualmente estou aprofundando:
 
 ===
 
-> 🎯 Objetivos em Desenvolvimento
-- Aprender sintaxe de java e consolidar POO     
+> 🎯 Objetivos
+- Aprender consolidar POO em java
+- Construir projetos backend (CRUD, APIs, etc.)
+- Evoluir para nivel júnior
 
 ===
 
