@@ -1,19 +1,18 @@
 # <h1 align="center">👨‍💻 Yago Souza</h1>
 
-**Estudante de Backend | Java (fundamentos concluídos) | Base em Python**
+**Desenvolvedor Java em formação | Backend | POO, Interfaces, Polimorfismo | Base em Python**
 
-Meu objetivo é construir uma base sólida em programação, consolidando lógica, POO e boas práticas no ecossistema de Java, com foco em desenvolvimento backend profissional.
+Meu objetivo é consolidar e aprofundar minha base em programação, aplicando lógica, POO e boas práticas no ecossistema Java, com foco em desenvolvimento backend.
 
 ---
 > 📈 Evolução dos Estudos
--  **Início dos estudos:** 5 meses atrás
--  **Java:** Fundamentos concluídos 
--  **Próximo passo:** Java POO e projetos backend
+-  **Java:** Base sólida em POO
+-  **Próximo passo:** Estrutura de dados (Collections)
 -  **Meta:** me tornar desenvolvedor backend
 
 ---
 
-> 🛠️ Tecnologias e Ferramentas que uso
+> 🛠️ Tecnologias e Conceitos que uso
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="65"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60"/>
@@ -25,16 +24,11 @@ Meu objetivo é construir uma base sólida em programação, consolidando lógic
 
 > 📚 Foco Atual
 - Atualmente estou aprofundando
-  - Programação Orientada a Objetos (POO)
-  - Organização de projetos
-  - Boas práticas de código
-
+  - Collections
 ---
 
 > 🎯 Objetivos
-- Aprender consolidar POO em java
-- Construir projetos backend (CRUD, APIs, etc.)
-- Evoluir para nivel júnior
+- Buscando minha primeira oportunidade como desenvolvedor backend para aplicar na prática os conhecimentos em Java e evoluir em projetos reais.
 
 ---
 
