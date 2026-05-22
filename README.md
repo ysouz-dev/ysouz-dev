@@ -6,7 +6,6 @@
 
 <p align="center">
   Cursando Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend com Java.<br/>
-  Comecei do zero há 8 meses — passei por lógica, Python, OOP e hoje estou construindo sistemas reais em Java.<br/>
   Buscando minha primeira oportunidade como desenvolvedor backend.
 </p>
 
