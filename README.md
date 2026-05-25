@@ -46,7 +46,7 @@
 - Remoção de registros
 - Exibição de estatísticas do sistema
 
-🔗 *(repositório em breve)*
+🔗 https://github.com/ysouz-dev/gerenciador-barbearia
 
 ---
 
